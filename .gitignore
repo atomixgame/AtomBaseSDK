@@ -1,0 +1,33 @@
+/nbproject/private/**
+/build/**
+/dist/**
+/target/classes/**
+/application/target/**
+CoreSuite/application/target/**
+CoreSuite/SceneViewer/target/**
+
+# Execution files
+*.dll
+
+# Compression files
+*.zip
+*.rar
+*.7z
+*.bz2
+
+#Images file
+*.psd
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+CoreSuite/application/target/*
+CoreSuite/application/target/
+CoreSuite/application/target/coresuite/

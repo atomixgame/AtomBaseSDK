@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: sg/atom/sdk/coresuite/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+

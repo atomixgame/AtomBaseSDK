@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="sg.atom.sdk.CoreSuite.branding">
+    <module_version install_time="1437129165789" last="true" origin="installer" specification_version="1.0">
+        <file crc="4265254517" name="config/Modules/sg-atom-sdk-CoreSuite-branding.xml"/>
+        <file crc="3222009374" name="core/locale/core_coresuite.jar"/>
+        <file crc="277106120" name="modules/locale/org-netbeans-core-windows_coresuite.jar"/>
+        <file crc="2235961064" name="modules/locale/org-netbeans-core_coresuite.jar"/>
+        <file crc="3109647693" name="modules/sg-atom-sdk-CoreSuite-branding.jar"/>
+        <file crc="1934092101" name="update_tracking/sg-atom-sdk-CoreSuite-branding.xml"/>
+    </module_version>
+</module>

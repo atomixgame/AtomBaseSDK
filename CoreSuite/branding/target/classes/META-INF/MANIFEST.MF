@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: sg/atom/sdk/coresuite/branding/Bundl
+ e.properties
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20150717
+OpenIDE-Module-Build-Version: 201507171032
+OpenIDE-Module: sg.atom.sdk.CoreSuite.branding
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: sg.atom.sdk
+OpenIDE-Module-Name: CoreSuite-branding
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.21.1
+
